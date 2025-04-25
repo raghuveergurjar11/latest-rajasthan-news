@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latest Rajasthan News</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #d32f2f;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    section {
+      padding: 15px;
+    }
+    h2 {
+      color: #d32f2f;
+      border-bottom: 2px solid #d32f2f;
+      padding-bottom: 5px;
+    }
+    article {
+      background: white;
+      margin-bottom: 15px;
+      padding: 10px;
+      border-radius: 6px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    h3 {
+      margin: 0 0 5px 0;
+      font-size: 18px;
+    }
+    p {
+      margin: 0;
+      font-size: 15px;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Latest Rajasthan News</h1>
+  <p>राजस्थान की ताज़ा अपडेट्स - राजनीति | शिक्षा | भर्तियाँ</p>
+</header>
+
+<section>
+  <h2>राजनीति</h2>
+  <article>
+    <h3>राजस्थान में नई सरकार का गठन, मुख्यमंत्री ने ली शपथ</h3>
+    <p>जयपुर: राजस्थान में हुए हालिया विधानसभा चुनावों के बाद नई सरकार का गठन हो गया है। मुख्यमंत्री ने आज सुबह 11 बजे शपथ ली। नई कैबिनेट में 12 मंत्री शामिल किए गए हैं।</p>
+  </article>
+</section>
+
+<section>
+  <h2>शिक्षा</h2>
+  <article>
+    <h3>राजस्थान बोर्ड ने 10वीं और 12वीं परीक्षा की डेटशीट जारी की</h3>
+    <p>अजमेर: राजस्थान माध्यमिक शिक्षा बोर्ड (RBSE) ने वर्ष 2025 की 10वीं और 12वीं कक्षाओं की परीक्षा की तिथि पत्र जारी कर दी है। परीक्षाएं 1 मार्च से शुरू होंगी।</p>
+  </article>
+</section>
+
+<section>
+  <h2>सरकारी भर्तियाँ</h2>
+  <article>
+    <h3>राजस्थान पुलिस कांस्टेबल भर्ती 2025 की अधिसूचना जारी</h3>
+    <p>जयपुर: राजस्थान पुलिस विभाग ने 2025 की कांस्टेबल भर्ती के लिए आधिकारिक अधिसूचना जारी कर दी है। इच्छुक उम्मीदवार 15 मई 2025 से ऑनलाइन आवेदन कर सकते हैं। कुल 8438 पदों पर भर्ती होगी।</p>
+  </article>
+</section>
+
+<footer>
+  © 2025 Latest Rajasthan News | संचालक: Raghuveer Gurjar
+</footer>
+
+</body>
+</html>
